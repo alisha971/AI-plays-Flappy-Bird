@@ -6,6 +6,7 @@ Flappy Bird is a popular game in which the player navigates through horizontally
 
 This project demonstrates the implementation of NEAT algorithm, which showcases how the algorithm can learn in any environment and exhibit a desired behaviour i.e. navigating the Flappy bird through the course endlessly.
 
+My contribution to the project was to build the Flappy Bird game, while my team worked on the algorithm.
 
 > How_Flappy_bird_implements_NEAT_algorithm?
 
